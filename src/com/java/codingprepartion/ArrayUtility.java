@@ -4,6 +4,7 @@ public class ArrayUtility {
 
 	public static int InputClass() {
 		// TODO Auto-generated method stub
+		// Stub
 		return 0;
 	}
 
